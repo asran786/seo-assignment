@@ -1,0 +1,32 @@
+1. What is seo and importance of seo
+
+The goal of SEO, or search engine optimization, is to raise a website's visibility and 
+position on search engine results pages. It entails a number of tactics and 
+industry-recognized best practices aimed at improving a website's authority and
+ relevance in the eyes of search engines like Google, Bing, and Yahoo.
+ the significance of SEO cannot be emphasized. 
+Search engines serve as the gatekeepers to internet information because 
+there are billions of websites fighting for users' attention. By generating organic 
+ traffic, a well-executed SEO strategy can have a substantial impact on a website's success. 
+ This is accomplished through optimizing a number of components, such as off-page features
+  like backlinks and social signals, as well as on-page ones like keyword usage, content quality, 
+  and meta tags.
+
+  2.what are benifits of using meta tags 
+
+  It inhance the search engine optimization 
+  It inhance the accessibility of web page
+  It have information of information
+  It help for web crawling
+  It help for secuirity purpose
+
+  3. what is favicon and give its illustrative example
+  A small, frequently square icon known as a favicon, or
+  favorite icon, it is present on tab aside as a icon, is used to identify a website or online page.
+  Favicons are shown in the address bar of the browser, 
+  next to the page's title in browser tabs, and in the bookmarks 
+  or favorites menu of the browser. 
+
+  example
+  <link rel="icon" href="favicon.ico" type="icon">
+
